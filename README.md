@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micha2791
-- 👀 I’m interested in ...  JavaScrip, Python and Swift
+- 👀 I’m interested in ...  JavaScript, Python and Swift
 - 🌱 I’m currently learning ... University of Miami BootCamp 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... micha2791@gmail.com
